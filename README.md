@@ -2,11 +2,18 @@
 
 #### By _**{KrishnaChaitanya}**_
 
-#### _{Brief description of application}_
+#### This Project Ecommerce Application
 
 ## Technologies Used
 
+#HTML
+#CSS
+#JAVA
+#ORACLE
+
+
 * _List all_
+* 
 * _the major technologies_
 * _you used in your project_
 * _here_

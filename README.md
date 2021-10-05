@@ -5,11 +5,10 @@
 #### This Project Ecommerce Application
 
 ## Technologies Used
-
-*_HTML_
-*_CSS_
-*_JAVA_
-*_ORACLE_
+* _HTML_
+* _CSS_
+* _JAVA_
+* _ORACLE_
 
 ## Description
 

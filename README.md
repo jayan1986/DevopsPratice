@@ -1,15 +1,15 @@
 # _{Application Name}_
 
-#### By _**{KrishnaChaitanya}**_
+#### By KrishnaChaitanya
 
 #### This Project Ecommerce Application
 
 ## Technologies Used
 
-#HTML
-#CSS
-#JAVA
-#ORACLE
+-*HTML-
+-*CSS-
+-*JAVA-
+-*ORACLE-
 
 
 * _List all_
